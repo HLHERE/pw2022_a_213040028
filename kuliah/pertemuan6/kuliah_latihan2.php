@@ -11,7 +11,7 @@ $mahasiswa = [
     ["gambar" => "https://i.pinimg.com/736x/5e/f3/f7/5ef3f71b4f3ed48aa85b09427a439d50.jpg",
     "nama" =>"kang saebyeok", 
     "npm" => "213040069",
-    "email" => "wildanfauzan@gmail.com",
+    "email" => "needmoneyASAP@gmail.com",
     "jurusan" => "Teknik Informatika"],
 
     ["gambar" => "https://i.pinimg.com/236x/e7/9c/7c/e79c7c782ae0ee32c5e4e256ee41c36e.jpg",
