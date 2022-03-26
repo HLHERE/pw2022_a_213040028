@@ -9,7 +9,7 @@ $mahasiswa = [
     "jurusan" => "HUKUM"],
 
     ["gambar" => "https://i.pinimg.com/736x/5e/f3/f7/5ef3f71b4f3ed48aa85b09427a439d50.jpg",
-    "nama" =>"kang saebyeok", 
+    "nama" =>"hoyeonny", 
     "npm" => "213040069",
     "email" => "needmoneyASAP@gmail.com",
     "jurusan" => "Teknik Informatika"],
